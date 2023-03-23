@@ -1,5 +1,5 @@
 # todo-app
-Simple CRUD Todo App With Firebase
+CRUD Todo App With Firebase
 
 A simple Todo App capable of CRUD (Create, Read, Update and Delete) operations using Firebase as a real time database.
 
